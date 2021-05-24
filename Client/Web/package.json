@@ -2,7 +2,7 @@
   "name": "rpsgame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alykamel.github.io/RPSGame/",
+  "homepage": "https://alykamel.github.io/RPSGame",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
