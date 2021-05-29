@@ -1,7 +1,7 @@
 
 export function MoveImage(props) {
     const name = NameFromMoveType(props.move)
-    const path = '/resources/hand-' + name + '.png'
+    const path = './resources/hand-' + name + '.png'
     return (
         <input type='image' src={path} alt={name} value={props.move} onClick={props.handleClick} />
     )
